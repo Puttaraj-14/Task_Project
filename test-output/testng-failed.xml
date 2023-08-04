@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="D:/Task_Project(failed)">
+    <classes>
+      <class name="Combinations">
+        <methods>
+          <include name="All"/>
+        </methods>
+      </class> <!-- Combinations -->
+    </classes>
+  </test> <!-- D:/Task_Project(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
